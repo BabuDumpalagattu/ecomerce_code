@@ -1,0 +1,20 @@
+html{
+    scroll-behavior: smooth;
+}
+
+#home{
+    height: 700px;
+background-color: blue;
+}
+#aboutus{
+    height: 700px;
+background-color: red;
+}
+#products{
+    height: 700px;
+background-color: yellow;
+}
+#contactus{
+    height: 700px;
+    background-color: blue;
+}
